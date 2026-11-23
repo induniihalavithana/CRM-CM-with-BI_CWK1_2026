@@ -1,0 +1,6 @@
+Ticker,Company,FirstTradingDate,Decision,Reason
+FDXF,FedEx Freight,2026-06-01,Exclude,Security began trading after the 2021-2024 study period
+HONA,Honeywell Aerospace,2026-06-29,Exclude,Security began trading after the 2021-2024 study period
+Q,Qnity Electronics,2025-11-03,Exclude,Security began trading after the 2021-2024 study period
+SNDK,Sandisk,2025-02-24,Exclude,Security began trading after the 2021-2024 study period
+VYLR,Vylor,2026-10-01,Exclude,Security began trading after the 2021-2024 study period
