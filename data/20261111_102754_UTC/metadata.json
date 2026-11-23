@@ -1,0 +1,11 @@
+{
+  "source": "Yahoo Finance via yfinance",
+  "constituents_source": "Wikipedia S&P 500 list",
+  "ticker_retrieval_date": "2026-11-11",
+  "download_timestamp_utc": "2026-11-11T10:30:54.492489+00:00",
+  "start_date": "2021-01-01",
+  "end_date_exclusive": "2025-01-01",
+  "auto_adjust": false,
+  "actions": true,
+  "yfinance_version": "0.2.66"
+}
