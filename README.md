@@ -29,7 +29,8 @@ Task 3 — Business Intelligence and Critical Review
     The findings support a critical discussion of segmentation methods, analytical limitations and potential business intelligence applications.
 
 ### Repository Structure
-- 'CR_&_CM_with_BI_CWK1_2026.ipynb' — Complete Python notebook.
+- 'CR_&_CM_with_BI.ipynb'- FINAL coursework notebook containing the completed analysis for Tasks 1, 2 and 3, including updated explanations, results and visualisations.
+- 'CR_&_CM_with_BI_CWK1_2026.ipynb'-Previous notebook version retained for reference.
 - 'requirements.txt' — Python package dependencies.
 - 'data/' — Historical stock prices, constituent list and acquisition metadata.
 - 'results/' — Calculated features, clustering outputs and evaluation results.
